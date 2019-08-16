@@ -1,0 +1,366 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-reanimated] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] /home/julio/.gradle/caches/transforms-2/files-2.1/9ec323904ee69b09a98e93c913006148/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ed7d5c794fecbd175488780c63e30393/AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] /home/julio/.gradle/caches/transforms-2/files-2.1/57e25b92168872b494a34f92fbd244ef/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/julio/.gradle/caches/transforms-2/files-2.1/c6470121a6df69bcfe21d1b49c0b0c0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d5053d54b4ca48674477e4f0e5432118/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/127042bcd59c54a723b08f851581b95c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/24131781d37244ec416b503738ad3711/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2b28a22275a72015e308416e321ee412/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/bb92180eb57be257e380aee07911ef85/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6d8184676d086ba2e172837f021c9a1f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c6163e542fc6e1825a36d3fdb9fc65cf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e165f0c85270e1592b1afd585588a76f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/76718e1862fae859fb2441548f4a290e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/0d8aa0de40f682a84f6b7e0bba078363/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dc367e2b9d54f8e92dcea1832d58e6c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fe6b407499f88ba96d86b1883b79ba6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d238bf5911ce11801392228accc43ed6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6db47e9693c23d4ea64e875969c0c3bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/4bce32ea54cc84d5f58ef7124caf8f7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3bcdff8539184ccc3d6a6dab00a2d101/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/2ff39c786e0bc2e7d7c3f83e3e2f6f0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/1b157e1d49975209264fa9971840878e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e0cd39eae4db8e32dac2892ab3cd2683/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/87525c7e1438426c52457f28e38ff252/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e34246e3fabb38dcc7d8a3e64b809f60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ccc874c2993b368d2fffda3d4c393bf4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/201ea28671e00a28b74b579a9465be2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/78c91b78760d5e44445498b50473b082/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ee1ab0eeee8d51589e36efebcd89ee67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c8e27abed121fda407647744eedcf172/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/33568c80fd24582b7ce3e7ef8e66a18c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dbcb38304bd388893a35b342692237e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/0909364233fc35e97b35494f703e6274/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fb2d8a7b1cfb0cf9a22b0362c1ed387a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e398b1a33d775ef713e974fb6d8ec980/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/75cca4c76dac462be0b5dfb14199c304/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3b2bb85bcd20633a81e84f5aa9e24906/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8374d49776da05bfa206ed294d721872/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c9f4c92b1f3df5f8d26ab46ed2cb8658/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2f835c1d7c89fbf8bf9aed52d9f66fcf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3a8727a75dfb2f62cece3009e33e559c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/cfe0d0f0d4e42d37230f31ae7e6438c0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:3:3-27
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:3:3-27
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:2:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from [com.facebook.react:react-native:0.60.4] /home/julio/.gradle/caches/transforms-2/files-2.1/9ec323904ee69b09a98e93c913006148/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /home/julio/.gradle/caches/transforms-2/files-2.1/9ec323904ee69b09a98e93c913006148/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ed7d5c794fecbd175488780c63e30393/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ed7d5c794fecbd175488780c63e30393/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e165f0c85270e1592b1afd585588a76f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e165f0c85270e1592b1afd585588a76f/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/76718e1862fae859fb2441548f4a290e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/76718e1862fae859fb2441548f4a290e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/0d8aa0de40f682a84f6b7e0bba078363/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/0d8aa0de40f682a84f6b7e0bba078363/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:7:5-11:19
+MERGED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/33568c80fd24582b7ce3e7ef8e66a18c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/33568c80fd24582b7ce3e7ef8e66a18c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:9:7-39
+	tools:ignore
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:11:7-52
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:11:7-52
+	tools:targetApi
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:12:7-34
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:8:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:14:7-16:66
+	android:value
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:16:9-64
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:15:9-54
+activity#com.localizese.MainActivity
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:17:9-31:20
+	android:label
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:mimeType:app/coordenadas
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:23:25-74
+category#android.intent.category.DEFAULT
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:24:17-75
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:24:27-73
+data
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:25:17-60
+	android:mimeType
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:25:23-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:32:9-86
+	android:name
+		ADDED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml:32:19-83
+uses-sdk
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/julio/.gradle/caches/transforms-2/files-2.1/9ec323904ee69b09a98e93c913006148/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/julio/.gradle/caches/transforms-2/files-2.1/9ec323904ee69b09a98e93c913006148/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ed7d5c794fecbd175488780c63e30393/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ed7d5c794fecbd175488780c63e30393/AndroidManifest.xml:5:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/julio/.gradle/caches/transforms-2/files-2.1/57e25b92168872b494a34f92fbd244ef/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/julio/.gradle/caches/transforms-2/files-2.1/57e25b92168872b494a34f92fbd244ef/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/julio/.gradle/caches/transforms-2/files-2.1/c6470121a6df69bcfe21d1b49c0b0c0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/julio/.gradle/caches/transforms-2/files-2.1/c6470121a6df69bcfe21d1b49c0b0c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d5053d54b4ca48674477e4f0e5432118/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d5053d54b4ca48674477e4f0e5432118/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/127042bcd59c54a723b08f851581b95c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/127042bcd59c54a723b08f851581b95c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/24131781d37244ec416b503738ad3711/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/24131781d37244ec416b503738ad3711/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2b28a22275a72015e308416e321ee412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2b28a22275a72015e308416e321ee412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/bb92180eb57be257e380aee07911ef85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/bb92180eb57be257e380aee07911ef85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6d8184676d086ba2e172837f021c9a1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6d8184676d086ba2e172837f021c9a1f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c6163e542fc6e1825a36d3fdb9fc65cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c6163e542fc6e1825a36d3fdb9fc65cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e165f0c85270e1592b1afd585588a76f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e165f0c85270e1592b1afd585588a76f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/76718e1862fae859fb2441548f4a290e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/76718e1862fae859fb2441548f4a290e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/0d8aa0de40f682a84f6b7e0bba078363/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/0d8aa0de40f682a84f6b7e0bba078363/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:5:5-43
+MERGED from [androidx.transition:transition:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dc367e2b9d54f8e92dcea1832d58e6c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dc367e2b9d54f8e92dcea1832d58e6c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fe6b407499f88ba96d86b1883b79ba6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fe6b407499f88ba96d86b1883b79ba6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d238bf5911ce11801392228accc43ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/d238bf5911ce11801392228accc43ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6db47e9693c23d4ea64e875969c0c3bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/6db47e9693c23d4ea64e875969c0c3bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/4bce32ea54cc84d5f58ef7124caf8f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/4bce32ea54cc84d5f58ef7124caf8f7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3bcdff8539184ccc3d6a6dab00a2d101/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3bcdff8539184ccc3d6a6dab00a2d101/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/2ff39c786e0bc2e7d7c3f83e3e2f6f0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/2ff39c786e0bc2e7d7c3f83e3e2f6f0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/1b157e1d49975209264fa9971840878e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/1b157e1d49975209264fa9971840878e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e0cd39eae4db8e32dac2892ab3cd2683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e0cd39eae4db8e32dac2892ab3cd2683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/87525c7e1438426c52457f28e38ff252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/87525c7e1438426c52457f28e38ff252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e34246e3fabb38dcc7d8a3e64b809f60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e34246e3fabb38dcc7d8a3e64b809f60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ccc874c2993b368d2fffda3d4c393bf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ccc874c2993b368d2fffda3d4c393bf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/201ea28671e00a28b74b579a9465be2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/201ea28671e00a28b74b579a9465be2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/78c91b78760d5e44445498b50473b082/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/78c91b78760d5e44445498b50473b082/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ee1ab0eeee8d51589e36efebcd89ee67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ee1ab0eeee8d51589e36efebcd89ee67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c8e27abed121fda407647744eedcf172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c8e27abed121fda407647744eedcf172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/julio/.gradle/caches/transforms-2/files-2.1/abcd57cd4bff721d30b8515b1afd91e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/33568c80fd24582b7ce3e7ef8e66a18c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/33568c80fd24582b7ce3e7ef8e66a18c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dbcb38304bd388893a35b342692237e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/dbcb38304bd388893a35b342692237e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/0909364233fc35e97b35494f703e6274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/0909364233fc35e97b35494f703e6274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fb2d8a7b1cfb0cf9a22b0362c1ed387a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/fb2d8a7b1cfb0cf9a22b0362c1ed387a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e398b1a33d775ef713e974fb6d8ec980/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/e398b1a33d775ef713e974fb6d8ec980/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/75cca4c76dac462be0b5dfb14199c304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/75cca4c76dac462be0b5dfb14199c304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3b2bb85bcd20633a81e84f5aa9e24906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3b2bb85bcd20633a81e84f5aa9e24906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8374d49776da05bfa206ed294d721872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8374d49776da05bfa206ed294d721872/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c9f4c92b1f3df5f8d26ab46ed2cb8658/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/c9f4c92b1f3df5f8d26ab46ed2cb8658/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2f835c1d7c89fbf8bf9aed52d9f66fcf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/2f835c1d7c89fbf8bf9aed52d9f66fcf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3a8727a75dfb2f62cece3009e33e559c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3a8727a75dfb2f62cece3009e33e559c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/cfe0d0f0d4e42d37230f31ae7e6438c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/julio/.gradle/caches/transforms-2/files-2.1/cfe0d0f0d4e42d37230f31ae7e6438c0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/julio/Programacao/vsprojects/Localizese/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-geolocation-service] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.NFC
+ADDED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-62
+	android:name
+		ADDED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-59
+uses-feature#android.hardware.nfc
+ADDED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-nfc-manager] /home/julio/Programacao/vsprojects/Localizese/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-44
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/8e1af1a7b273e024c6e96b809e42165d/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/julio/.gradle/caches/transforms-2/files-2.1/3f6503aa183e5f3be83943b3f98d31aa/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/julio/.gradle/caches/transforms-2/files-2.1/fb858db8f545fdd16a5c7f645f435e22/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /home/julio/.gradle/caches/transforms-2/files-2.1/ad480b5db23f4ee9ea9e2ae08d4ac1ef/AndroidManifest.xml:24:13-58
